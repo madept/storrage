@@ -5,7 +5,7 @@ class RootControllerController < ApplicationController
  	 env = EnvironmentInfo.new
  	 envData=env.getEnvironment
  	 session[:env]=envData
- 	 session[:redirect_url]="http://localhost:3000/home"
+ 	 session[:redirect_url]="https://qa-stg.herokuapp.com/home"
  	@text=envData.web_app_sign_in_url
   
   end
