@@ -1,0 +1,22 @@
+<%= render '/shared/header_landing' %>   
+
+<%= session[:env].customerApiUrl %>
+
+<div style="margin-top:5%" class="container">   
+            <form  role="form" >
+                 <div class="row"> 
+		            <div class="col-sm-4 col-sm-offset-4 col-lg-offset-4 col-md-offset-4  ">
+		              <a type="button" href="<%= session[:env].web_app_sign_in_url + '?redirect_url='+ session[:redirect_url]%>" style="width:100%" class="btn btn-info">SIGN IN VIA EMAIL</a> 
+							<div class="row row-dense"></div>
+								<div >
+									<h4 style="color:#cfcfcf;margin-top:10%;text-align:center">OR</h4>
+								</div>
+									<a type="button" style="margin-top:5%; width:100%" class="btn btn-primary">SIGN IN WITH FACEBOOK</a>
+					</div>
+					
+				</div>
+				
+            </form >
+			
+      </div>
+<%= render '/shared/footer_landing' %>

@@ -1,0 +1,12 @@
+.smicon {
+opacity: .4;
+-webkit-filter:grayscale(1)opacity(.4);
+-moz-filter:grayscale(1)opacity(.4);
+filter:grayscale(1)opacity(.4);
+}
+
+.smicon:hover {
+opacity: 1;
+-webkit-filter:grayscale(0)opacity(1);
+filter:grayscale(0)opacity(1);
+}
