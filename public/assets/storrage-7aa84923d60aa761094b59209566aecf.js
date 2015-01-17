@@ -1,0 +1,1 @@
+function login(){$.get("./login",{},function(n){console.log(" Html is "+n),$("#content").html(n)})}
