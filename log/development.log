@@ -12692,3 +12692,816 @@ Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for
 
 
 Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:24:21 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:36:18 +0530
+
+SyntaxError (/Users/krish/krish@mac/ws-rails/storrage_app/app/controllers/root_controller_controller.rb:15: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+ // url= session[:env].customerApiUrl
+       ^):
+  app/controllers/root_controller_controller.rb:15: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+
+
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (8.2ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (26.5ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.9ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (143.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:36:40 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (1.0ms)
+  Rendered shared/_footer_landing.html.erb (0.3ms)
+  Rendered root_controller/index.html.erb within layouts/application (146.0ms)
+Completed 200 OK in 4754ms (Views: 3029.4ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:47 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:36:48 +0530
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:36:48 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:36:49 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:39:02 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.4ms)
+  Rendered shared/_footer_landing.html.erb (0.4ms)
+  Rendered root_controller/index.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 1775ms (Views: 788.7ms)
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:39:04 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:04 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:04 +0530
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:39:04 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:39:05 +0530
+
+
+Started GET "/home" for 127.0.0.1 at 2015-01-17 18:39:11 +0530
+Processing by RootControllerController#home as HTML
+  Rendered root_controller/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4822ms (Views: 168.6ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:39:17 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:40:07 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.0ms)
+  Rendered shared/_footer_landing.html.erb (0.0ms)
+  Rendered root_controller/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 1475ms (Views: 141.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:40:09 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.1ms)
+  Rendered shared/_footer_landing.html.erb (0.1ms)
+  Rendered root_controller/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 943ms (Views: 178.8ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:40:10 +0530
+
+
+Started GET "/home" for 127.0.0.1 at 2015-01-17 18:40:16 +0530
+Processing by RootControllerController#home as HTML
+Completed 500 Internal Server Error in 8ms
+
+NameError (undefined local variable or method `userInfo' for #<RootControllerController:0x007fc0432dd330>):
+  app/controllers/root_controller_controller.rb:16:in `home'
+
+
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (6.7ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (110.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:40:58 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.1ms)
+  Rendered shared/_footer_landing.html.erb (0.1ms)
+  Rendered root_controller/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 999ms (Views: 187.1ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:40:59 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:41:00 +0530
+
+
+Started GET "/home" for 127.0.0.1 at 2015-01-17 18:41:03 +0530
+Processing by RootControllerController#home as HTML
+Completed 500 Internal Server Error in 3371ms
+
+NoMethodError (undefined method `downcase' for 0:Fixnum):
+  app/controllers/root_controller_controller.rb:17:in `home'
+
+
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (7.4ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /Users/krish/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (93.2ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2015-01-17 18:42:26 +0530
+Processing by RootControllerController#home as HTML
+  Rendered root_controller/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 3597ms (Views: 146.2ms)
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:42:29 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:43:15 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.0ms)
+  Rendered shared/_footer_landing.html.erb (0.1ms)
+  Rendered root_controller/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 939ms (Views: 144.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:43:16 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.1ms)
+  Rendered shared/_footer_landing.html.erb (0.1ms)
+  Rendered root_controller/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 1089ms (Views: 195.6ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:43:18 +0530
+
+
+Started GET "/home" for 127.0.0.1 at 2015-01-17 18:43:21 +0530
+Processing by RootControllerController#home as HTML
+  Rendered root_controller/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 3408ms (Views: 137.2ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:43:26 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:44:01 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:44:03 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.1ms)
+  Rendered shared/_footer_landing.html.erb (0.1ms)
+  Rendered root_controller/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 1114ms (Views: 195.2ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:44:05 +0530
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-195cb410b49d75c104a5bc6ad385ac77.woff" for 127.0.0.1 at 2015-01-17 18:44:06 +0530
+
+
+Started GET "/home" for 127.0.0.1 at 2015-01-17 18:44:09 +0530
+Processing by RootControllerController#home as HTML
+  Rendered root_controller/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 3588ms (Views: 145.1ms)
+
+
+Started GET "/assets/storrage-1e07247886029cef369b21d927e46162.css?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/application-df9b93d47d664f2ff580cb0a7d606dbd.css?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/root_controller-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/storrage-f37431308ecfeb3e6b8c5880aae4055c.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/assets/application-5d3da7b776a329423780af200a724b6e.js?body=1" for 127.0.0.1 at 2015-01-17 18:44:12 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-17 18:47:41 +0530
+Processing by RootControllerController#index as HTML
+  Rendered shared/_header_landing.html.erb (0.1ms)
+  Rendered shared/_footer_landing.html.erb (0.0ms)
+  Rendered root_controller/index.html.erb within layouts/application (40.8ms)
+Completed 200 OK in 1246ms (Views: 285.2ms)
+
+
+Started GET "/assets/storrage-logo.png" for 127.0.0.1 at 2015-01-17 18:47:44 +0530

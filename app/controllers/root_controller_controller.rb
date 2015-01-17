@@ -12,9 +12,9 @@ class RootControllerController < ApplicationController
   
   def home
   userInfo = UserInfo.new
-  url= session[:env].customerApiUrl
-  @response =userInfo.loadSessions(url+"/sessions")
-   
+ # url= session[:env].customerApiUrl
+  @resp =userInfo.loadSessions("https://app-qa.storrage.com/rest/v1/sessions")
+   @status=@resp['success']
   
   end 
 end
